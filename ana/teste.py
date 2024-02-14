@@ -32,7 +32,7 @@ values = sheet.get_all_values()  # Get all values from the spreadsheet
 
 # Loop through each student's data
 for i, student in enumerate(values[3:], start=4):
-    student_name = student[0]
+    student_name = student[1]
     absence = int(student[2])
     total_classes = 60
     grade1 = float(student[3])

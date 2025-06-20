@@ -1,7 +1,3 @@
-# Desafio Google Sheets
-
-Comando:
-
 pip install gspread google-auth
 
 

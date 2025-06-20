@@ -10,14 +10,14 @@ Automatização de uma planilha feita com a biblioteca gspread, que permite veri
 
 
 ## Baixar a biblioteca do GSPREAD:
-´´
+´´´
 pip install gspread google-auth
-´´
+´´´
 
 ## Rodar o script:
-´´
+´´´
 python calculos.py
-´´
+´´´
 
 
 link da planilha:
